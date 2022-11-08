@@ -20,7 +20,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 | Oakland'15  | 13.5% | 55/407  |
 | Oakland'14  | 13% | 44/334  |
 | Oakland'13  | 12% | 38/315  |
-| Average  | X | -  |
+| Average  | 12.7% | -  |
 
 
 + **ACM CCS Conference** 2023 call for paper (TBD.)
@@ -37,7 +37,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 | CCS'15  | 19.8% | 128/646  |
 | CCS'14  | 19.5% | 114/484  |
 | CCS'13  | 19.8% | 105/530  |
-| Average  | X | -  |
+| Average  | 18.76% | -  |
 
 
 
@@ -55,7 +55,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 | SEC'15  | 15.7% | 67/426  |
 | SEC'14  | 19% | 67/350  |
 | SEC'13  | 15.9% | 44/277  |
-| Average  | X | -  |
+| Average  | 17% | -  |
 
 
 + **NDSS Conference** [2023 call for paper](https://www.ndss-symposium.org/ndss2023/call-for-papers/)
@@ -72,7 +72,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 | NDSS'15  | 16.9% | 51/302  |
 | NDSS'14  | 18.6% | 55/295  |
 | NDSS'13  | 18.8% | 47/250  |
-| Average  | X | -  |
+| Average  | 17.3% | -  |
 
 
 Note:
