@@ -6,7 +6,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 
 
-+ **Oakland S&P Conference** [2023 call for paper](https://www.ieee-security.org/TC/SP2023/)
++ **Oakland S&P acceptance rate ** [2023 call for paper](https://www.ieee-security.org/TC/SP2023/)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted) |
 |  :----  | :----  | :----  |
@@ -23,7 +23,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 | Average  | 12.7% | -  |
 
 
-+ **ACM CCS Conference** 2023 call for paper (TBD.)
++ **ACM CCS acceptance rate** 2023 call for paper (TBD.)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted) |
 |  :----  | :----  | :----  |
@@ -41,7 +41,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 
 
-+ **USENIX Security Conference** [2023 call for paper](https://www.usenix.org/conference/usenixsecurity23)
++ **USENIX Security acceptance rate** [2023 call for paper](https://www.usenix.org/conference/usenixsecurity23)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted)  |
 |  :----  | :----  | :----  |
@@ -58,7 +58,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 | Average  | 17% | -  |
 
 
-+ **NDSS Conference** [2023 call for paper](https://www.ndss-symposium.org/ndss2023/call-for-papers/)
++ **NDSS acceptance rate** [2023 call for paper](https://www.ndss-symposium.org/ndss2023/call-for-papers/)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted)  |
 |  :----  | :----  | :----  |
