@@ -23,7 +23,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 | Average  | 12.7% | -  |
 
 
-+ **ACM CCS acceptance rate** 2023 call for paper [TBA.](https://www.sigsac.org/ccs/CCS2023)
++ **ACM CCS acceptance rate** [2023 call for paper](https://cispa.saarland/group/cremers/events/CCS2023/)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted) |
 |  :----  | :----  | :----  |
