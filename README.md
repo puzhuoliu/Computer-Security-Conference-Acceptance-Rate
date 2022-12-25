@@ -6,7 +6,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 
 
-+ **Oakland S&P acceptance rate ** [2023 call for paper](https://www.ieee-security.org/TC/SP2023/)
++ **Oakland S&P acceptance rate** [2023 call for paper](https://www.ieee-security.org/TC/SP2023/)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted) |
 |  :----  | :----  | :----  |
