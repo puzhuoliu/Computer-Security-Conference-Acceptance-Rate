@@ -6,10 +6,11 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 
 
-+ **Oakland S&P acceptance rate** [2023 call for paper](https://www.ieee-security.org/TC/SP2023/)
++ **Oakland S&P acceptance rate** [2024 call for paper](https://sp2024.ieee-security.org/cfpapers.html)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted) |
 |  :----  | :----  | :----  |
+| Oakland'23  | -  | - |
 | Oakland'22  | 14.52%  | 147/1012  |
 | Oakland'21  | 12.1% | 115/952  |
 | Oakland'20  | 12.3% | 104/841  |
@@ -23,10 +24,11 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 | Average  | 12.7% | -  |
 
 
-+ **ACM CCS acceptance rate** [2023 call for paper](https://cispa.saarland/group/cremers/events/CCS2023/)
++ **ACM CCS acceptance rate** [2024 call for paper](https://www.sigsac.org/ccs/CCS2024/)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted) |
 |  :----  | :----  | :----  |
+| CCS'23  | -22.4% | - |
 | CCS'22  |  22.4% | 218/971 |
 | CCS'21  | 22.3% | 196/879  |
 | CCS'20  | 16.9% | 121/715  |
@@ -41,10 +43,11 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 
 
-+ **USENIX Security acceptance rate** [2023 call for paper](https://www.usenix.org/conference/usenixsecurity23)
++ **USENIX Security acceptance rate** [2024 call for paper](https://www.usenix.org/conference/usenixsecurity24/call-for-papers)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted)  |
 |  :----  | :----  | :----  |
+| SEC'23  | -  | -  |
 | SEC'22  | 18%  | 256/1414  |
 | SEC'21  | 18.7% | 246/1316  |
 | SEC'20  | 16.1% | 157/977  |
@@ -58,11 +61,12 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 | Average  | 17% | -  |
 
 
-+ **NDSS acceptance rate** [2023 call for paper](https://www.ndss-symposium.org/ndss2023/call-for-papers/)
++ **NDSS acceptance rate** [2024 call for paper](https://www.ndss-symposium.org/ndss2024/submissions/)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted)  |
 |  :----  | :----  | :----  |
-| NDSS'22  | 16.2%  |  -  |
+| NDSS'23  | -  | -  |
+| NDSS'22  | 16.2%  |  94/581  |
 | NDSS'21  | 15.2% | 87/573  |
 | NDSS'20  | 17.4% | 88/506  |
 | NDSS'19  | 17% | 89/521  |
@@ -75,5 +79,8 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 | Average  | 17.3% | -  |
 
 
-Note:
+## Others:
+[Top 20 Cyber Security Conferences](http://jianying.space/conference-ranking-history.html)
+
+## Note:
 The data comes from the Internet and may not be accurate. Corrections and additions are welcome.
