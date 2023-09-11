@@ -1,9 +1,9 @@
 # Computer-Security-Conference-Acceptance-Rate
 Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USENIX Security, NDSS.
 
-![Acceptance](https://user-images.githubusercontent.com/43575651/200480416-e2750b0c-7f77-465e-abba-2b6f0d7af532.png)
 
 
+![Acceptance](https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate/assets/43575651/82778f5b-796a-4064-9a19-19f294d5abbf)
 
 
 + **Oakland S&P acceptance rate** [2024 call for paper](https://sp2024.ieee-security.org/cfpapers.html)
