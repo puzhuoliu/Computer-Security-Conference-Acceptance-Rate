@@ -5,10 +5,11 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 
 
-+ **Oakland S&P acceptance rate** [2024 call for paper](https://sp2024.ieee-security.org/cfpapers.html)
++ **Oakland S&P acceptance rate** [2025 call for paper](https://www.ieee-security.org/TC/SP2025/)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted) |
 |  :----  | :----  | :----  |
+| Oakland'24  | -  | - |
 | Oakland'23  | 17.1%  | 196/1147 |
 | Oakland'22  | 14.52%  | 147/1012  |
 | Oakland'21  | 12.1% | 115/952  |
@@ -23,10 +24,11 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 | Average  | 13.12% | -  |
 
 
-+ **ACM CCS acceptance rate** [2024 call for paper](https://www.sigsac.org/ccs/CCS2024/)
++ **ACM CCS acceptance rate** [2025 call for paper](https://www.sigsac.org/ccs/CCS2025/)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted) |
 |  :----  | :----  | :----  |
+| CCS'24  | - | - |
 | CCS'23  | 19.87 | 158/795 |
 | CCS'22  |  22.4% | 218/971 |
 | CCS'21  | 22.3% | 196/879  |
@@ -42,10 +44,11 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 
 
-+ **USENIX Security acceptance rate** [2024 call for paper](https://www.usenix.org/conference/usenixsecurity24/call-for-papers)
++ **USENIX Security acceptance rate** [2025 call for paper](https://www.usenix.org/conference/usenixsecurity25)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted)  |
 |  :----  | :----  | :----  |
+| SEC'24  | -  | - |
 | SEC'23  | 29.2%  | 422/1,444 |
 | SEC'22  | 18%  | 256/1414  |
 | SEC'21  | 18.7% | 246/1316  |
@@ -60,10 +63,11 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 | Average  | 18.09% | -  |
 
 
-+ **NDSS acceptance rate** [2024 call for paper](https://www.ndss-symposium.org/ndss2024/submissions/)
++ **NDSS acceptance rate** [2025 call for paper](https://www.ndss-symposium.org/ndss2025)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted)  |
 |  :----  | :----  | :----  |
+| NDSS'24  | 20.2%  |  140/694|
 | NDSS'23  | 16.2%  | 94/581  |
 | NDSS'22  | 16.2%  |  83/512  |
 | NDSS'21  | 15.2% | 87/573  |
