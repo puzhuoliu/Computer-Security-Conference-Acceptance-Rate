@@ -85,5 +85,32 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 ## Others:
 [Top 20 Cyber Security Conferences](http://jianying.space/conference-ranking-history.html)
 
+## Security research on specific objects can also be published at top conferences in the corresponding fields.
+
+### Architecture
++ ASPLOS, ISCA, MICRO, HPCA
+
+### Networks
++ SIGCOMM, NSDI
+
+### Database
++ SIGMOD, VLDB
+
+### Software
++ FSE, ICSE
+
+### Operating System
++ SOSP, OSDI, EuroSys, USENIX ATC, FAST
+
+### Programing Language
++ PLDI, POPL, ICFP, OOPSLA
+
+### Mobile System
++ MobiSys, MobiCom, SenSys
+
+### Embedded System
++  EMSOFT, RTAS, RTSS
+
+
 ## Note:
 The data comes from the Internet and may not be accurate. Corrections and additions are welcome.
