@@ -10,6 +10,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted) |
 |  :----  | :----  | :----  |
+| Oakland'25  | -  | - |
 | Oakland'24  | 17.8%  | 258/1449 |
 | Oakland'23  | 17.1%  | 196/1147 |
 | Oakland'22  | 14.52%  | 147/1012  |
@@ -29,6 +30,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted) |
 |  :----  | :----  | :----  |
+| CCS'25  | - | - |
 | CCS'24  | 16.9% | 331/1964 |
 | CCS'23  | 19.15% | 235/1222 |
 | CCS'22  |  22.4% | 218/971 |
@@ -49,6 +51,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted)  |
 |  :----  | :----  | :----  |
+| SEC'25  | -  | - |
 | SEC'24  | 18.32%  | 417/2276 |
 | SEC'23  | 29.2%  | 422/1,444 |
 | SEC'22  | 18%  | 256/1414  |
@@ -68,6 +71,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted)  |
 |  :----  | :----  | :----  |
+| NDSS'25  | 16.1%  |  211/1311|
 | NDSS'24  | 20.2%  |  140/694|
 | NDSS'23  | 16.2%  | 94/581  |
 | NDSS'22  | 16.2%  |  83/512  |
