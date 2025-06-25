@@ -10,7 +10,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted) |
 |  :----  | :----  | :----  |
-| Oakland'25  | -  | - |
+| Oakland'25  | 14.7%  | 256/1739 |
 | Oakland'24  | 17.8%  | 258/1449 |
 | Oakland'23  | 17.1%  | 196/1147 |
 | Oakland'22  | 14.52%  | 147/1012  |
