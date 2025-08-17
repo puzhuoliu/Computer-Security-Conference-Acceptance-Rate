@@ -51,7 +51,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted)  |
 |  :----  | :----  | :----  |
-| SEC'25  | -  | - |
+| SEC'25  | 17.1%  | 407/2385 |
 | SEC'24  | 18.32%  | 417/2276 |
 | SEC'23  | 29.2%  | 422/1,444 |
 | SEC'22  | 18%  | 256/1414  |
