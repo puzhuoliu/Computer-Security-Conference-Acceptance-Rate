@@ -2,7 +2,8 @@
 Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USENIX Security, NDSS.
 
 
-![Acceptance](https://github.com/user-attachments/assets/16dc82cc-dc18-454c-9963-0fb45e3261b6)
+<img width="1253" height="480" alt="Acceptance" src="https://github.com/user-attachments/assets/16a09cee-3c2d-4878-8cf7-f2bd6cfb1e49" />
+
 
 
 
