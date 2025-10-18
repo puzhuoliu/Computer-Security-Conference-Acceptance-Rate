@@ -7,7 +7,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 
 
-+ **Oakland S&P acceptance rate** [2025 call for paper](https://www.ieee-security.org/TC/SP2025/)
++ **Oakland S&P acceptance rate** [2026 call for paper](https://www.ieee-security.org/TC/SP2026/)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted) |
 |  :----  | :----  | :----  |
@@ -27,7 +27,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 
 
-+ **ACM CCS acceptance rate** [2025 call for paper](https://www.sigsac.org/ccs/CCS2025/)
++ **ACM CCS acceptance rate** [2026 call for paper](https://www.sigsac.org/ccs/CCS2026/)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted) |
 |  :----  | :----  | :----  |
@@ -48,7 +48,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 
 
-+ **USENIX Security acceptance rate** [2025 call for paper](https://www.usenix.org/conference/usenixsecurity25)
++ **USENIX Security acceptance rate** [2026 call for paper](https://www.usenix.org/conference/usenixsecurity26)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted)  |
 |  :----  | :----  | :----  |
@@ -68,7 +68,7 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 
 
-+ **NDSS acceptance rate** [2025 call for paper](https://www.ndss-symposium.org/ndss2025)
++ **NDSS acceptance rate** [2026 call for paper](https://www.ndss-symposium.org/ndss2026)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted)  |
 |  :----  | :----  | :----  |
