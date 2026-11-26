@@ -7,11 +7,12 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 
 
-+ **Oakland S&P acceptance rate** [2026 call for paper](https://www.ieee-security.org/TC/SP2026/)
++ **Oakland S&P acceptance rate** [2027 call for paper](https://www.ieee-security.org/TC/SP2027/)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted) |
 |  :----  | :----  | :----  |
-| Oakland'25  | 14.7%  | 256/1739 |
+| Oakland'26  | 12.68%  | 253/1995 |
+| Oakland'25  | 14.8%  | 257/1740 |
 | Oakland'24  | 17.8%  | 258/1449 |
 | Oakland'23  | 17.1%  | 196/1147 |
 | Oakland'22  | 14.52%  | 147/1012  |
@@ -27,10 +28,11 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 
 
-+ **ACM CCS acceptance rate** [2026 call for paper](https://www.sigsac.org/ccs/CCS2026/)
++ **ACM CCS acceptance rate** [2027 call for paper](https://www.sigsac.org/ccs/CCS2027/)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted) |
 |  :----  | :----  | :----  |
+| CCS'26  | 14.4% | 486/3384 |
 | CCS'25  | 13.9% | 316/2278 |
 | CCS'24  | 16.9% | 331/1964 |
 | CCS'23  | 19.15% | 235/1222 |
@@ -48,10 +50,11 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 
 
-+ **USENIX Security acceptance rate** [2026 call for paper](https://www.usenix.org/conference/usenixsecurity26)
++ **USENIX Security acceptance rate** [2027 call for paper](https://www.usenix.org/conference/usenixsecurity27)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted)  |
 |  :----  | :----  | :----  |
+| SEC'26  | 13.2%  | 362/2750 |
 | SEC'25  | 17.1%  | 407/2385 |
 | SEC'24  | 18.32%  | 417/2276 |
 | SEC'23  | 29.2%  | 422/1,444 |
@@ -68,10 +71,11 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 
 
 
-+ **NDSS acceptance rate** [2026 call for paper](https://www.ndss-symposium.org/ndss2026)
++ **NDSS acceptance rate** [2027 call for paper](https://www.ndss-symposium.org/ndss2027)
 
 |  Conference   | Acceptance rate  | Paper (accepted/submitted)  |
 |  :----  | :----  | :----  |
+| NDSS'26  | 17.89%  |  265/1481|
 | NDSS'25  | 16.1%  |  211/1311|
 | NDSS'24  | 20.2%  |  140/694|
 | NDSS'23  | 16.2%  | 94/581  |
@@ -117,6 +121,11 @@ Statistics of acceptance rate for the top conferences: Oakland S&P, ACM CCS, USE
 ### Embedded System
 +  EMSOFT, RTAS, RTSS
 
+### Human Factors
++ CHI, SOUPS, CSCW
+
+### Privacy
++ PETS
 
 ## Note:
 The data comes from the Internet and may not be accurate. Corrections and additions are welcome.
